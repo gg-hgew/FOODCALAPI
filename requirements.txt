@@ -1,0 +1,7 @@
+Flask
+torch
+opencv-python
+Pillow
+numpy
+ultralytics
+google-generativeai
